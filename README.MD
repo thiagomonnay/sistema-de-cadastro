@@ -1,6 +1,6 @@
-<h1> Sistema de Cadastro </h1>
+# Sistema de Cadastro #
 
-> Arquivo com isntruções necessárias para rodar o projeto!
+## Arquivo com instruções necessárias para rodar o projeto ##
 
 >Status do projeto: em desenvolvimento
 
